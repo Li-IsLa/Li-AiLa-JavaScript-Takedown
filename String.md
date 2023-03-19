@@ -49,7 +49,7 @@ StringRevise("Li-AiLa", 1, 3, [1,2]);
 StringRevise("Li-AiLa", 1, 4, "1234");
 //console.log => L1234La
 ```
-1. **target** typeof: Array
+2. **target** typeof: Array
 >当target传入的类型是数组时,如
 ``` JavaScript
 StringRevise("Li-AiLa", 1, 4, [111,222,333,'aaa']);
