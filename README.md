@@ -1,4 +1,4 @@
-# Li-AiLa-JavaScript-Takedown
+# Li-IsLa-JavaScript-Takedown
 大一学生的JavaScript学习之路
 ## 目录
 ### 字符串
