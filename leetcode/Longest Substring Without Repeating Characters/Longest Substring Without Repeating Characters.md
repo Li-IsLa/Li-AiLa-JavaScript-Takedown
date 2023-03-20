@@ -7,11 +7,8 @@
 1. `Set`使用
 
     > 生成一个set `let set = new Set();`
-
     > 查找set中是否包含指定的值 `set.has(index);`
-
     > 删除set中指定的值 `set.delete(index);`
-
     > 向set中添加指定的值 `set.add(index);`
 2. Function: `Math.max(Number0, Number1);`
 
