@@ -6,3 +6,4 @@
 
 ### LeetCode
 - [leetcode第三题](https://github.com/Li-IsLa/Li-AiLa-JavaScript-Takedown/blob/main/leetcode/Longest%20Substring%20Without%20Repeating%20Characters/Longest%20Substring%20Without%20Repeating%20Characters.md "最长不重复字符串")
+- [leetcode第五题](https://github.com/Li-IsLa/Li-AiLa-JavaScript-Takedown/blob/main/leetcode/Longest%20Palindromic%20Substring/Longest%20Palindromic%20Substring.md)
