@@ -16,7 +16,7 @@ function getTimeRandom() {
 - `new Date()`获取当前时间.
 - `Date.getMinutes()`获取当前时间的**分钟**.
 - `Date.getTimezoneOffset()`获取当前时区与**世界时**的差距(**分钟**).
-- `Date.getTime()`将时间转化为**秒**.
+- `Date.getTime()`将时间转化为**毫秒**.
 - 随机数
 - `Math.random()`随机生成`0-1`的数字.有小概率为`0`但绝不会为`1`.
 - 一个随意的算法
