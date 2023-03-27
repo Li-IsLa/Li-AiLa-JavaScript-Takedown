@@ -13,7 +13,7 @@ function getTimeRandom() {
 ---
 #### 描述
 - 时间
-- `Date()`获取当前时间.
+- `new Date()`获取当前时间.
 - `Date.getMinutes()`获取当前时间的**分钟**.
 - `Date.getTimezoneOffset()`获取当前时区与**世界时**的差距(**分钟**).
 - `Date.getTime()`将时间转化为**秒**.
